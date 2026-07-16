@@ -1,4 +1,5 @@
 ![Schoovir Logo](Logo%20Dark.png)
+![Schoovir Playthrough](Schoovir%20Quick%20Plathrough%201.gif)
 Schoovir is an AI-powered immersive learning platform transforming how science and technical education is taught. Through interactive virtual laboratories, realistic simulations, and AI-assisted learning, students can perform experiments in a safe, engaging, and accessible digital environment.
 
 Designed for secondary schools, universities, and training institutions, Schoovir provides hands-on practical experiences without the limitations of physical laboratories. From conducting virtual experiments to receiving intelligent guidance from an AI learning assistant, the platform helps learners develop deeper conceptual understanding and practical skills.
@@ -26,7 +27,6 @@ Our mission is to make high-quality practical science education accessible to ev
   <img src="Schoovir%20Screenshot%204.png" width="47.5%" hspace="18">
 </p>
 
-![Schoovir Playthrough](Schoovir%20Quick%20Plathrough%201.gif)
 
 #
 <p align="left">
