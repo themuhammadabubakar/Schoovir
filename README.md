@@ -27,3 +27,14 @@ Our mission is to make high-quality practical science education accessible to ev
 </p>
 
 ![Schoovir Playthrough](Schoovir%20Quick%20Plathrough%201.gif)
+
+
+<p align="left">
+  <a href="https://schoovir.com.ng">
+    <img alt="Learn More" src="https://img.shields.io/badge/Learn%20More-24292F?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://schoovir.com.ng/demo">
+    <img alt="Try Schoovir for Free" src="https://img.shields.io/badge/Try%20Schoovir%20for%20Free-24292F?style=for-the-badge&logo=rocket&logoColor=white">
+  </a>
+</p>
