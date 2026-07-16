@@ -22,8 +22,8 @@ Our mission is to make high-quality practical science education accessible to ev
   <img src="Schoovir%20Screenshot%202.png" width="45%" hspace="18">
 </p>
 <p>
-  <img src="Schoovir%20Screenshot%203.png" width="46%">
-  <img src="Schoovir%20Screenshot%204.png" width="46%" hspace="18">
+  <img src="Schoovir%20Screenshot%203.png" width="48%">
+  <img src="Schoovir%20Screenshot%204.png" width="48%" hspace="18">
 </p>
 
 ![Schoovir Playthrough](Schoovir%20Quick%20Plathrough%201.gif)
