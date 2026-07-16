@@ -18,12 +18,12 @@ Our mission is to make high-quality practical science education accessible to ev
 > **Learn by doing, not just by reading.**
 
 <p>
-  <img src="Schoovir%20Screenshot.png" width="45%">
-  <img src="Schoovir%20Screenshot%202.png" width="45%" hspace="18">
+  <img src="Schoovir%20Screenshot.png" width="47.5%">
+  <img src="Schoovir%20Screenshot%202.png" width="47.5%" hspace="18">
 </p>
 <p>
-  <img src="Schoovir%20Screenshot%203.png" width="47.6%">
-  <img src="Schoovir%20Screenshot%204.png" width="47.6%" hspace="18">
+  <img src="Schoovir%20Screenshot%203.png" width="47.5%">
+  <img src="Schoovir%20Screenshot%204.png" width="47.5%" hspace="18">
 </p>
 
 ![Schoovir Playthrough](Schoovir%20Quick%20Plathrough%201.gif)
